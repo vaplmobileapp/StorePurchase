@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+<item
+        android:id="@+id/mont"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="Branch"/>
+</menu>
+<!-- From: file:/C:/Users/San/StudioProjects/Store%20Purchase/app/src/main/res/menu/lprate.xml -->
